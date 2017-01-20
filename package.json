@@ -1,0 +1,14 @@
+{
+  "name": "jmart",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0",
+      "babel-runtime": "6.18.0",
+      "react": "*",
+      "react-dom": "*",
+      "react-router": "*"
+  }
+}

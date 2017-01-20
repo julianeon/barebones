@@ -1,0 +1,8 @@
+{
+  "galaxy.meteor.com": { 
+     "env": {
+        "name_a": "alpha",
+	"name_b": "beta"
+      } 
+   }
+}
